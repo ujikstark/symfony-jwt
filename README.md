@@ -6,6 +6,7 @@ What's inside
 
 - [Symfony](https://github.com/symfony/symfony) 5.4.2 
 - [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) ~2.14
+- [JWTRefreshTokenBundle](https://github.com/markitosgv/JWTRefreshTokenBundle)
 
 Get started
 ------------
